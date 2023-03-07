@@ -4,19 +4,19 @@
     "url": "https://api.kyun.host/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.kyun.host.ico",
     "slug": "main-api",
-    "status": "down",
-    "uptime": "94.71%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "94.71%",
-    "uptimeYear": "94.71%",
-    "time": 585,
-    "timeDay": 585,
-    "timeWeek": 585,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "status": "up",
+    "uptime": "90.99%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "90.99%",
+    "time": 586,
+    "timeDay": 586,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-03-07": 47
+      "2023-03-07": 84
     }
   }
 ]
