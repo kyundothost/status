@@ -4,19 +4,19 @@
     "url": "https://api.kyun.host/offers",
     "icon": "https://icons.duckduckgo.com/ip3/api.kyun.host.ico",
     "slug": "main-api",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 598,
-    "timeDay": 598,
-    "timeWeek": 598,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "56.28%",
+    "uptimeDay": "56.28%",
+    "uptimeWeek": "56.28%",
+    "uptimeMonth": "56.28%",
+    "uptimeYear": "56.28%",
+    "time": 662,
+    "timeDay": 662,
+    "timeWeek": 662,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {
-      "2023-03-07": 0
+      "2023-03-07": 47
     }
   }
 ]
