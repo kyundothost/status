@@ -1,20 +1,20 @@
 [
   {
     "name": "Main API",
-    "url": "https://api.kyun.host/offers",
+    "url": "https://api.kyun.host/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.kyun.host.ico",
     "slug": "main-api",
     "status": "up",
-    "uptime": "56.28%",
-    "uptimeDay": "56.28%",
-    "uptimeWeek": "56.28%",
-    "uptimeMonth": "56.28%",
-    "uptimeYear": "56.28%",
-    "time": 662,
-    "timeDay": 662,
-    "timeWeek": 662,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "uptime": "80.92%",
+    "uptimeDay": "80.92%",
+    "uptimeWeek": "80.92%",
+    "uptimeMonth": "80.92%",
+    "uptimeYear": "80.92%",
+    "time": 613,
+    "timeDay": 613,
+    "timeWeek": 613,
+    "timeMonth": 613,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2023-03-07": 47
     }
