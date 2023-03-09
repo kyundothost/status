@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kyun.host.ico",
     "slug": "main-api",
     "status": "up",
-    "uptime": "87.65%",
-    "uptimeDay": "84.06%",
-    "uptimeWeek": "87.65%",
-    "uptimeMonth": "87.65%",
-    "uptimeYear": "87.65%",
+    "uptime": "88.81%",
+    "uptimeDay": "84.86%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "88.81%",
     "time": 553,
     "timeDay": 540,
     "timeWeek": 553,
     "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2023-03-08": 230,
+      "2023-03-08": 218,
       "2023-03-07": 131
     }
   }
