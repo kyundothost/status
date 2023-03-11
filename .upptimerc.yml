@@ -5,6 +5,10 @@ sites:
   - name: Main API
     url: https://api.kyun.host/ping
     __dangerous__body_down_if_text_missing: 'pong'
+  - name: Dro
+    check: "tcp-ping"
+    url: dro.kyun.host
+    port: 8006
 
 status-website:
   cname: status.kyun.host
