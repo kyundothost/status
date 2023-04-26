@@ -9,6 +9,10 @@ sites:
     check: "tcp-ping"
     url: dro.kyun.host
     port: 8006
+  - name: Neko
+    check: "tcp-ping"
+    url: neko.kyun.host
+    port: 8006
 
 status-website:
   cname: status.kyun.host
