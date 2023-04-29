@@ -4,11 +4,11 @@
     "url": "https://api.kyun.host/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.kyun.host.ico",
     "slug": "main-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.29%",
     "time": 1631,
     "timeDay": 658,
@@ -16,6 +16,7 @@
     "timeMonth": 2219,
     "timeYear": 1631,
     "dailyMinutesDown": {
+      "2023-04-29": 2,
       "2023-04-08": 18,
       "2023-04-06": 59,
       "2023-03-25": 22,
@@ -52,9 +53,9 @@
     "url": "neko.kyun.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "neko",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,6 +64,8 @@
     "timeWeek": 198,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 0
+    }
   }
 ]
