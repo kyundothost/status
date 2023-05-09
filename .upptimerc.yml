@@ -13,6 +13,10 @@ sites:
     check: "tcp-ping"
     url: neko.kyun.host
     port: 8006
+  - name: Okayu
+    check: "tcp-ping"
+    url: okayu.kyun.host
+    port: 8006
 
 status-website:
   cname: status.kyun.host
