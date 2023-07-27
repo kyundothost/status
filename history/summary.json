@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "neko",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 192,
     "timeDay": 216,
     "timeWeek": 204,
@@ -85,10 +85,10 @@
     "url": "okayu.kyun.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "okayu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 207,
@@ -97,6 +97,7 @@
     "timeMonth": 235,
     "timeYear": 207,
     "dailyMinutesDown": {
+      "2023-07-27": 1,
       "2023-07-12": 26
     }
   },
@@ -105,9 +106,9 @@
     "url": "korone.kyun.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "korone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,6 +117,8 @@
     "timeWeek": 246,
     "timeMonth": 207,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-27": 0
+    }
   }
 ]
