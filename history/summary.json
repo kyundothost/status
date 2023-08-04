@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kyun.host.ico",
     "slug": "main-api",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.16%",
     "time": 1061,
     "timeDay": 580,
     "timeWeek": 532,
@@ -43,11 +43,11 @@
     "url": "dro.kyun.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.88%",
     "time": 203,
     "timeDay": 193,
@@ -55,6 +55,7 @@
     "timeMonth": 198,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2023-08-04": 3,
       "2023-05-09": 179,
       "2023-04-06": 38,
       "2023-03-23": 41
@@ -85,10 +86,10 @@
     "url": "okayu.kyun.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "okayu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 205,
@@ -97,6 +98,7 @@
     "timeMonth": 231,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2023-08-04": 1,
       "2023-07-12": 26
     }
   },
@@ -105,9 +107,9 @@
     "url": "korone.kyun.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "korone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,6 +118,8 @@
     "timeWeek": 239,
     "timeMonth": 215,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 0
+    }
   }
 ]
