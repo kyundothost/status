@@ -21,6 +21,10 @@ sites:
     check: "tcp-ping"
     url: korone.kyun.host
     port: 8006
+  - name: Subaru
+    check: "tcp-ping"
+    url: subaru.kyun.host
+    port: 8006
 
 status-website:
   cname: status.kyun.host
