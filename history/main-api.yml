@@ -1,7 +1,7 @@
 url: https://api.kyun.host/ping
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2023-11-14T23:14:39.798Z
+status: down
+code: 502
+responseTime: 519
+lastUpdated: 2023-11-15T15:31:00.486Z
 startTime: 2023-03-06T23:00:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
